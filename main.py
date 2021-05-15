@@ -80,8 +80,7 @@ def ExecuteTask(factory):
 
 
 if __name__ == "__main__":
-    print("Пашковская Екатерина Анатольевна")
-    print("Группа: 8-Т3О-402Б-16")
+    print("Пашковская Екатерина")
     print("Лабораторная работа 1\n")
 
     ExecuteTask(GetInstanse())
